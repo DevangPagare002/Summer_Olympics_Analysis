@@ -26,7 +26,7 @@ The dataset contains the datas of Summer Olympics from the year 1896 till 2012. 
 ## About Me:
 Hello everyone, I am Devang Pagare, Second year B.Tech student at G.H. Raisoni College of Engineering and Management, Pune. I am passionate about working on AI, Machine learning and Data Science.
 
-##Feel free to contact on:
+## Feel free to contact on:
 
 Email:  devpagare002@gmail.com
 
