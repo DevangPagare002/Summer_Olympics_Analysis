@@ -2,7 +2,7 @@
 This is my 2nd Assignment of Python for ML/AI Internship under Elitetechnogroup. Name of this assignment is Summer_Olympics_Analysis.
 
 ## About repository
-his is a Summer Olympics Assignment in which we were asked to solve some particular questions using Python codes and graphs. This repository contains one notebook file & one csv file. They are: 
+This is a Summer Olympics Assignment in which we were asked to solve some particular questions using Python codes and graphs. This repository contains one notebook file & one csv file. They are: 
 1. Summer Olympics.ipynb 
 2. summer.csv
 
